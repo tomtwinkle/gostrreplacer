@@ -1,2 +1,2 @@
 # gostrreplacer
-Transform strings using Golang "transformer.Transform"
+Replace strings using Golang "transformer.Transform"
