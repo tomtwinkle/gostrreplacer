@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# macos
+.DS_Store
+
+# Editor
+.idea
+.code
+
+# Fuzz TestDate
+testdata/fuzz
